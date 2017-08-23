@@ -1,0 +1,14 @@
+.TextDiv{
+	position:fixed;
+	display:block;
+	cursor: pointer;
+	
+}
+
+.TextDiv:focus{
+	border:2px dashed;
+}
+
+.selectedItem{
+	border: 2px dashed;
+}
